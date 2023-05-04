@@ -1,0 +1,1172 @@
+html{
+  scroll-behavior: smooth;
+}
+.navigation-links-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links-text1 {
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links-text2 {
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links-text3 {
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links-text4 {
+  margin-left: var(--dl-space-space-twounits);
+}
+
+home-container2
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+  color: #FFFFFF;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+  font-family: 'Rubik', sans-serif;
+  color: #FFFFFF;
+}
+
+body {
+    background-color: #ffbedd;
+}
+
+.navigation-links-root-class-name17 {
+  top: 230px;
+  left: 41px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .navigation-links-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links-text {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-text1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-text2 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-text3 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-text4 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-root-class-name17 {
+    left: 409px;
+    bottom: -4px;
+  }
+}
+
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffbedd;
+}
+.home-container15 {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 3429px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.home-container1 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  background-color: #ffbedd;
+}
+.home-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  background-color: #ffbedd;
+}
+.home-container200 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  background-color: #ffbedd;
+}
+.home-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  background-color: #ffbedd;
+} 
+.home-image {
+  top: 60px;
+  left: 59px;
+  width: 498px;
+  height: 236px;
+  position: absolute;
+  object-fit: cover;
+}
+.home-text {
+  top: 95px;
+  left: 577px;
+  width: 138px;
+  height: 108px;
+  position: absolute;
+  align-self: flex-end;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+.home-header {
+  top: 204px;
+  left: 85px;
+  width: 482px;
+  display: flex;
+  position: absolute;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.home-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: space-between;
+  flex-direction: column;
+}
+.home-nav {
+  flex: 0 0 auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.home-navlink {
+  display: contents;
+}
+.home-component {
+  text-decoration: none;
+}
+.home-image1 {
+  top: 68px;
+  right: 75px;
+  width: 470px;
+  height: 168px;
+  position: absolute;
+  object-fit: cover;
+}
+.rupaullaying {
+  position: absolute;
+  height: 500px;
+  top: 675px;
+}
+.jinkxmonsoon {
+  position: absolute;
+  width: 280px;
+  top: 220px;
+  padding-left: 15px;
+}
+.jinkxdescription {
+  position: absolute;
+  top: 180px;
+  left: 315px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-family: 'Rubik', sans-serif;
+}
+.asiaohara {
+  position: absolute;
+  width: 280px;
+  top: 690px;
+  padding-left: 15px;
+}
+.asiadescription {
+  position: absolute;
+  top: 650px;
+  left: 315px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-family: 'Rubik', sans-serif;
+}
+.courtneyact {
+  position: absolute;
+  width: 280px;
+  top: 1325px;
+  padding-left: 15px;
+}
+.courtneydescription {
+  position: absolute;
+  top: 1200px;
+  left: 315px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-family: 'Rubik', sans-serif;
+}
+.eurekaohara {
+  position: absolute;
+  width: 280px;
+  top: 1840px;
+  padding-left: 15px;
+}
+.eurekadescription {
+  position: absolute;
+  top: 1750px;
+  left: 315px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-family: 'Rubik', sans-serif;
+}
+form{
+  left: 200px;
+}
+  #submit-form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-top: 50px;
+    }
+  label {
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    }
+  input[type=text] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    margin: 10px;
+    width: 300px;
+    font-family: 'Rubik', sans-serif;
+    }
+    .name {
+      font-family: 'Rubik', sans-serif;
+    }
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+    }
+input[type=submit]:hover {
+  background-color: #3e8e41;
+    }
+#thank-you-message {
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+    display: none;
+    font-family: 'Rubik', sans-serif;
+    }
+.home-container3 {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 429px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.home-container9 {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 2429px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.lagintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 260px;
+    left: 20px;
+    position: absolute;
+}
+.lagdesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 310px;
+    left: 20px;
+    position: absolute;
+}
+.vanjintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 680px;
+    left: 20px;
+    position: absolute;
+}
+.vanjdesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 730px;
+    left: 20px;
+    position: absolute;
+}
+.adoreintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 1020px;
+    left: 20px;
+    position: absolute;
+}
+.adoredesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 1070px;
+    left: 20px;
+    position: absolute;
+}
+.orangeintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 1420px;
+    left: 20px;
+    position: absolute;
+}
+.orangedesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 1470px;
+    left: 20px;
+    position: absolute;
+}
+.willamintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 1840px;
+    left: 20px;
+    position: absolute;
+}
+.willamdesc{
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 1900px;
+    left: 20px;
+    position: absolute;
+}
+.ivyintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 2240px;
+    left: 20px;
+    position: absolute;
+}
+.ivydesc{
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 2290px;
+    left: 20px;
+    position: absolute;
+}
+.latriceintro {
+  font-size: 32px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 2640px;
+    left: 20px;
+    position: absolute;
+}
+.latricedesc{
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 2690px;
+    left: 20px;
+    position: absolute;
+}
+.anetravmarcia {
+  font-size: 30px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 220px;
+    left: 20px;
+    position: absolute;
+}
+.avmdesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 270px;
+    left: 20px;
+    position: absolute;
+}
+#anetramarciavid {
+  top: 350px;
+  left: 20px;
+  position: absolute;
+  width: 500px;
+  height: 281px;
+}
+.katyavsasha {
+  font-size: 30px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 220px;
+    left: 720px;
+    position: absolute;
+}
+.kvsdesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 270px;
+    left: 720px;
+    position: absolute;
+}
+.katyasashavid {
+  top: 340px;
+  left: 720px;
+  width: 500px;
+  height: 281px;
+  position: absolute;
+}
+.monetdustyvid {
+  top: 750px;
+  left: 20px;
+  width: 500px;
+  height: 281px;
+  position: absolute;
+}
+.monetvdusty {
+  font-size: 30px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 620px;
+    left: 20px;
+    position: absolute;
+}
+.mvddesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 670px;
+    left: 20px;
+    position: absolute;
+}
+.monetvid {
+  top: 1000px;
+}
+.roxxxyvalyssa {
+  font-size: 30px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 620px;
+    left: 720px;
+    position: absolute;
+}
+.rvadesc {
+  font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 670px;
+    left: 720px;
+    position: absolute;
+}
+.roxxxyalyssavid {
+  top: 750px;
+  left: 720px;
+  width: 500px;
+  height: 281px;
+  position: absolute;
+}
+.home-container10 {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 1129px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.home-container12 {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 3429px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.home-image2 {
+  right: 6px;
+  width: 283px;
+  bottom: 0px;
+  height: 404px;
+  position: absolute;
+  object-fit: cover;
+}
+.introtext {
+  left: 50px;
+  color: var(--dl-color-gray-black);
+  width: 1200px;
+  bottom: 22px;
+  height: 20px;
+  position: absolute;
+  top: -5px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+}
+.home-text05 {
+  top: 28px;
+  left: 26px;
+  color: var(--dl-color-gray-black);
+  width: var(--dl-size-size-maxwidth);
+  position: absolute;
+  font-size: 25px;
+  font-style: normal;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+}
+.rupaulcharles {
+font-size: 25px;
+  font-style: normal;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  position: absolute;
+  left: 350px;
+  top: 845px;
+  color: #FFFFFF;
+}
+.rupaulquote {
+  font-size: 25px;
+  font-style: normal;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  position: absolute;
+  left: 350px;
+  color: #FFFFFF;
+}
+.returnhomeintro {
+  font-size: 50px;
+  font-style: normal;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  position: absolute;
+  left: 950px;
+  top: 900px;
+  color: #FFFFFF;
+}
+.home-image3 {
+  left: 25px;
+  width: 225px;
+  bottom: 21px;
+  height: 41px;
+  position: absolute;
+  object-fit: cover;
+}
+.meetcontainer {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 11000px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.introcontainer {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 650px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.home-navlink1 {
+  text-decoration: none;
+}
+@media(max-width: 1600px) {
+  .home-container {
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+  .home-navlink1 {
+    top: 789px;
+    left: 570px;
+    color: #ffffff;
+    bottom: -183px;
+    position: absolute;
+    text-decoration: none;
+    background-color: #ff7fdf;
+  }
+@media(max-width: 991px) {
+  .home-text {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 900;
+    text-transform: capitalize;
+  }
+  .introductorytext {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    position: absolute;
+    top: 200px;
+  }
+  .home-text05 {
+    color: var(--dl-color-gray-black);
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    padding-right: 20px;
+  }
+  .home-text06 {
+    color: var(--dl-color-gray-black);
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+  }
+  .home-text09{
+    color: var(--dl-color-gray-black);
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    position: absolute;
+    top: 200px;
+  }
+  .seasonspageintro {
+    font-size: 40px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 10px;
+    left: 20px;
+    position: absolute;
+  }
+}
+#season1,
+#season2,
+#season3,
+#season4,
+#season5,
+#season6,
+#season7,
+#season8,
+#season9,
+#season10,
+#season11,
+#season12,
+#season13,
+#season14,
+#season15 {
+  height: 700px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  padding-left: 10px;
+}
+#rpjudge,
+#mvjudge,
+#ckjudge,
+#rmjudge,
+#tsjudge {
+  height: 700px;
+  font-family: 'Rubik', sans-serif;
+  padding-left: 10px;
+}
+.rutitle {
+  top:200px;
+  position: absolute;
+  left: 350px;
+  font-size: 35px;
+}
+.michelletitle {
+  top:800px;
+  position: absolute;
+  left: 350px;
+  font-size: 35px;
+}
+.carsontitle {
+top:1450px;
+  position: absolute;
+  left: 350px;
+  font-size: 35px;
+}
+.rosstitle {
+top:2100px;
+  position: absolute;
+  left: 350px;
+  font-size: 35px;
+}
+.tstitle {
+top:2750px;
+  position: absolute;
+  left: 350px;
+  font-size: 35px;
+}
+.rpjudgeintro {
+font-size: 25px;
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+top: 300px;
+position: absolute;
+left: 340px;
+padding-right: 20px;
+}
+
+.rupauljudgeimage {
+position: absolute;
+top: 250px;
+width: 300px;
+left: 20px;
+}
+.mvjudgeintro {
+font-size: 25px;
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+top: 900px;
+position: absolute;
+left: 340px;
+padding-right: 20px;
+}
+.michellevisageimage {
+position: absolute;
+top: 900px;
+width: 300px;
+left: 20px;
+}
+.ckjudgeintro {
+font-size: 25px;
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+top: 1550px;
+position: absolute;
+left: 340px;
+padding-right: 20px;
+}
+.carsonkressleyjudgeimage {
+position: absolute;
+top: 1550px;
+width: 300px;
+left: 20px;
+}
+.rmjudgeintro {
+font-size: 25px;
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+top: 2200px;
+position: absolute;
+left: 340px;
+padding-right: 20px;
+}
+.rossmatthewsjudgeimage {
+position: absolute;
+top: 2250px;
+width: 300px;
+left: 20px;
+}
+.tsjudgeintro {
+font-size: 25px;
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+top: 2850px;
+position: absolute;
+left: 340px;
+padding-right: 20px;
+}
+.tsmadisonjudgeimage {
+position: absolute;
+top: 2850px;
+width: 300px;
+left: 20px;
+}
+.otherjudges {
+font-size: 25px;
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+top: 3350px;
+position: absolute;
+left: 10px;
+padding-right: 20px;
+}
+}
+.castseason1 {
+  text-align: center;
+  position: absolute;
+  top:670px;
+  font-size: 18px;
+}
+.seasononeimg {
+  left:250px;
+  top:200px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason2 {
+  text-align: center;
+  position: absolute;
+  top:1410px;
+  font-size: 18px;
+}
+.seasontwoimg {
+  left:250px;
+  top:950px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason3 {
+  text-align: center;
+  position: absolute;
+  top:2150px;
+  font-size: 18px;
+}
+.seasonthreeimg {
+  left:250px;
+  top:1700px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason4 {
+  text-align: center;
+  position: absolute;
+  top:2890px;
+  font-size: 18px;
+}
+.seasonfourimg {
+  left:250px;
+  top:2450px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason5 {
+  text-align: center;
+  position: absolute;
+  top:3570px;
+  font-size: 18px;
+}
+.seasonfiveimg {
+  left:250px;
+  top:3200px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason6 {
+  text-align: center;
+  position: absolute;
+  top:4320px;
+  font-size: 18px;
+}
+.seasonsiximg {
+  left:250px;
+  top:3850px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason7 {
+  text-align: center;
+  position: absolute;
+  top:5000px;
+  font-size: 18px;
+}
+.seasonsevenimg {
+  left:250px;
+  top:4590px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason8 {
+  text-align: center;
+  position: absolute;
+  top:5740px;
+  font-size: 18px;
+}
+.seasoneightimg {
+  left:250px;
+  top:5340px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason9 {
+  text-align: center;
+  position: absolute;
+  top:6460px;
+  font-size: 18px;
+}
+.seasonnineimg {
+  left:250px;
+  top:6070px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason10{
+  text-align: center;
+  position: absolute;
+  top:7180px;
+  font-size: 18px;
+}
+.seasontenimg {
+  left:250px;
+  top:6800px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason11 {
+  text-align: center;
+  position: absolute;
+  top:7920px;
+  font-size: 18px;
+}
+.seasonelevenimg {
+  left:250px;
+  top:7440px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason12 {
+  text-align: center;
+  position: absolute;
+  top:8640px;
+  font-size: 18px;
+}
+.seasontwelveimg {
+  left:250px;
+  top:8165px;
+  width:900px;
+  height:;
+  position: absolute;
+}
+.castseason13 {
+  text-align: center;
+  position: absolute;
+  top:9400px;
+  font-size: 18px;
+}
+.seasonthirteenimg {
+  left:250px;
+  top:8900px;
+  width:850px;
+  height:;
+  position: absolute;
+}
+.castseason14 {
+  text-align: center;
+  position: absolute;
+  top:10090px;
+  font-size: 18px;
+}
+.seasonfourteenimg {
+  left:250px;
+  top:9600px;
+  width:800px;
+  height:;
+  position: absolute;
+}
+.castseason15 {
+  text-align: center;
+  position: absolute;
+  top:10830px;
+  font-size: 18px;
+}
+.seasonfifteenimg {
+  left:250px;
+  top:10350px;
+  width:750px;
+  height:;
+  position: absolute;
+}
+.iconiclewks {
+   font-size: 40px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 10px;
+    left: 20px;
+    position: absolute;
+}
+ .lewksintro {
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 80px;
+    left: 20px;
+    position: absolute;
+ }
+  .morevideos {
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    top: 80px;
+    left: 720px;
+    position: absolute;
+ }
+.home-container18 {
+  top: 296px;
+  left: 43px;
+  width: 1289px;
+  height: 3029px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.rubobble {
+  position: absolute;
+  width: 15%;
+  top:10px;
+  left:980px;
+}
+.lagdeathdrop {
+  position: absolute;
+  width: 30%;
+  top:230px;
+  left:820px;
+}
+.missvanjieimg {
+  position: absolute;
+  width: 30%;
+  top:560px;
+  left:820px;
+}
+.adoreimage {
+  position: absolute;
+  width: 30%;
+  top:1060px;
+  left:820px;
+}
+.orangeimg {
+  position: absolute;
+  width: 30%;
+  top:1360px;
+  left:820px;
+}
+.willamimg {
+  position: absolute;
+  width: 30%;
+  top:1860px;
+  left:820px;
+}
+.ivyimg {
+  position: absolute;
+  width: 30%;
+  top:2260px;
+  left:820px;
+}
+.latriceimg {
+  position: absolute;
+  width: 30%;
+  top:2660px;
+  left:820px;
+}
+@media(max-width: 767px) {
+  .home-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .home-nav {
+    display: none;
+  }
+  .home-image1 {
+    left: 20px;
+    bottom: 69px;
+  }
+}
+@media(max-width: 479px) {
+  .home-header {
+    padding: var(--dl-space-space-unit);
+  }
+}
+nav {
+  font-family: 'Rubik', sans-serif;
+}
